@@ -62,7 +62,6 @@ String s2 = "ho, man";
         Reddit hey = new Reddit("Lolz", 3000);
         Reddit omfgjajajajajaja = new Reddit("fuck dig lmao lol haha xdxdxd", 1000000);
 
-        System.out.println(hey.compareTo(omfgjajajajajaja));
 
 
 
