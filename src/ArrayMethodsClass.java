@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.OptionalDouble;
 
 
-public class Test {
+public class ArrayMethodsClass {
 
 
 
@@ -13,7 +13,7 @@ public class Test {
             sum += value;
         }
         System.out.println(sum);
-        return sum + ;
+        return sum;
 
         }
 

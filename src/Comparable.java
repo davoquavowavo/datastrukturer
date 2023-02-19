@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Comparable {
+public interface Comparable<T> {
+    public int compareTo (T o);
 }
